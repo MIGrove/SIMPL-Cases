@@ -15,7 +15,7 @@ Tiny script to compare SIMPL test outputs to supplied test cases.
 - Place `testcases.py` in the `tests` folder, too
 
 ![image](https://user-images.githubusercontent.com/32196181/133342744-f65baee2-e0e8-4847-9142-d0a49b7926f4.png)
-- Run the following command:
+- Run the following command from within the `tests` folder:
 
 ```bash
 $ python3.10 testcases.py scanner
