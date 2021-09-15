@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+__author__ = "Matthew I. Grove"
 
 from os import error
 import subprocess
